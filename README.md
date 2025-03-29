@@ -1,4 +1,4 @@
-# 🌟 Global groupware Internshal Assignment
+#  Global groupware Internshala Assignment
 
 A modern **user management system** built with React, user CRUD operations, and smooth pagination.
 
@@ -22,9 +22,9 @@ A modern **user management system** built with React, user CRUD operations, and 
 ## 📦 Installation
 Clone the repo and install dependencies:
 ```sh
-git clone https://github.com/your-username/react-user-management.git
-cd react-user-management
+git clone https://github.com/subhm08/Global_groupware_assignment.git
+cd Global_groupware_assignment
 npm install
 npm run dev
-```sh
+
 
