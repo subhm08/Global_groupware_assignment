@@ -17,7 +17,7 @@ A modern **user management system** built with React, user CRUD operations, and 
 - **Deployment:** Vercel  
 
 ## 📌 Live Demo
-🔗 **[Live URL](https://your-vercel-app.vercel.app/)** (Replace with actual link)
+🔗 **[Live URL](https://global-groupware-assignment-seven.vercel.app/)**
 
 ## 📦 Installation
 Clone the repo and install dependencies:
